@@ -1,6 +1,6 @@
 ---
 name: Bug Report (日本語)
-about: Create a report to help us improve
+about: バグissueを作成します
 title: '[BUG] bugの簡単な説明'
 labels: bug
 assignees: ''
